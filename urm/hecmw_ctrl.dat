@@ -1,0 +1,6 @@
+!MESH,NAME=fstrMSH,TYPE=HECMW-ENTIRE
+twoblocks_CHB6.msh
+!CONTROL,NAME=fstrCNT
+twoblocks_CHB6.cnt
+!RESULT,NAME=fstrRES,IO=OUT
+twoblocks_CHB6.res
